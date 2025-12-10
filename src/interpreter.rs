@@ -257,7 +257,7 @@ impl Interpreter {
                 };
 
                 if let Some(rec_args) = recursion_args {
-                    self.evaluate_appliation(&func, &rec_args, Rc::clone(&new_env), true)?;
+                    return self.evaluate_appliation(&func, &rec_args, Rc::clone(&new_env), true);
                 }
                 func_evalution_result
             }
