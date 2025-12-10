@@ -1,0 +1,4 @@
+(λascii. ascii) 72 (λascii. ascii) 101 (λascii. ascii) 108 (λascii. ascii) 108 (λascii. ascii) 111
+(λascii. ascii) 44
+(λascii. ascii) 32 (λascii. ascii) 87 (λascii. ascii) 111 (λascii. ascii) 114 (λascii. ascii) 108 (λascii. ascii) 100 (λascii. ascii) 33
+(λascii. ascii) 10
